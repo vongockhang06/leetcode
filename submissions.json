@@ -1,5 +1,15 @@
 [
   {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "title_slug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 345,
     "title": "Reverse Vowels of a String",
     "title_slug": "reverse-vowels-of-a-string",
