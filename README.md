@@ -7,3 +7,4 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
