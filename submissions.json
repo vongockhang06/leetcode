@@ -50,5 +50,16 @@
       "Sorting",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 3158,
+    "title": "Find the XOR of Numbers Which Appear Twice",
+    "title_slug": "find-the-xor-of-numbers-which-appear-twice",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table"
+    ]
   }
 ]
