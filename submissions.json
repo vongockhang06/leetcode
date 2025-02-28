@@ -40,6 +40,19 @@
     ]
   },
   {
+    "id": 1346,
+    "title": "Check If N and Its Double Exist",
+    "title_slug": "check-if-n-and-its-double-exist",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",
