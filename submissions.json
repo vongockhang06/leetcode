@@ -53,6 +53,17 @@
     ]
   },
   {
+    "id": 2460,
+    "title": "Apply Operations to an Array",
+    "title_slug": "apply-operations-to-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",
