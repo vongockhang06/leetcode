@@ -64,6 +64,17 @@
     ]
   },
   {
+    "id": 2570,
+    "title": "Merge Two 2D Arrays by Summing Values",
+    "title_slug": "merge-two-2d-arrays-by-summing-values",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",
