@@ -20,6 +20,17 @@
     ]
   },
   {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 345,
     "title": "Reverse Vowels of a String",
     "title_slug": "reverse-vowels-of-a-string",
