@@ -53,6 +53,17 @@
     ]
   },
   {
+    "id": 2161,
+    "title": "Partition Array According to Given Pivot",
+    "title_slug": "partition-array-according-to-given-pivot",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2460,
     "title": "Apply Operations to an Array",
     "title_slug": "apply-operations-to-an-array",
