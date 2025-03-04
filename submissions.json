@@ -31,6 +31,16 @@
     ]
   },
   {
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 345,
     "title": "Reverse Vowels of a String",
     "title_slug": "reverse-vowels-of-a-string",
