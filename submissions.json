@@ -139,6 +139,17 @@
     ]
   },
   {
+    "id": 3028,
+    "title": "Ant on the Boundary",
+    "title_slug": "ant-on-the-boundary",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3158,
     "title": "Find the XOR of Numbers Which Appear Twice",
     "title_slug": "find-the-xor-of-numbers-which-appear-twice",
