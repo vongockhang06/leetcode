@@ -74,6 +74,15 @@
     ]
   },
   {
+    "id": 1780,
+    "title": "Check if Number is a Sum of Powers of Three",
+    "title_slug": "check-if-number-is-a-sum-of-powers-of-three",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2161,
     "title": "Partition Array According to Given Pivot",
     "title_slug": "partition-array-according-to-given-pivot",
