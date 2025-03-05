@@ -127,6 +127,15 @@
     ]
   },
   {
+    "id": 2579,
+    "title": "Count Total Number of Colored Cells",
+    "title_slug": "count-total-number-of-colored-cells",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",
