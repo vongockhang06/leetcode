@@ -51,6 +51,18 @@
     ]
   },
   {
+    "id": 463,
+    "title": "Island Perimeter",
+    "title_slug": "island-perimeter",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 541,
     "title": "Reverse String II",
     "title_slug": "reverse-string-ii",

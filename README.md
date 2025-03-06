@@ -11,6 +11,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
+| 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | `String` `Two Pointers` |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | Medium | `Math` |
