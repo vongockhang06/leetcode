@@ -211,5 +211,14 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 3452,
+    "title": "Sum of Good Numbers",
+    "title_slug": "sum-of-good-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
