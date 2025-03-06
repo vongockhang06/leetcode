@@ -148,6 +148,18 @@
     ]
   },
   {
+    "id": 2965,
+    "title": "Find Missing and Repeated Values",
+    "title_slug": "find-missing-and-repeated-values",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3028,
     "title": "Ant on the Boundary",
     "title_slug": "ant-on-the-boundary",
