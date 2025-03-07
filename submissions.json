@@ -117,6 +117,19 @@
     ]
   },
   {
+    "id": 2523,
+    "title": "Closest Prime Numbers in Range",
+    "title_slug": "closest-prime-numbers-in-range",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Primality Test",
+      "Prime Number Sieve",
+      "Sieve Theory"
+    ]
+  },
+  {
     "id": 2558,
     "title": "Take Gifts From the Richest Pile",
     "title_slug": "take-gifts-from-the-richest-pile",
