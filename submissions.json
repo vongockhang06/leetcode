@@ -106,6 +106,16 @@
     ]
   },
   {
+    "id": 2379,
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+    "difficulty": "Easy",
+    "skills": [
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2460,
     "title": "Apply Operations to an Array",
     "title_slug": "apply-operations-to-an-array",
