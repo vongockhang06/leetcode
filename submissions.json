@@ -217,6 +217,16 @@
     ]
   },
   {
+    "id": 3208,
+    "title": "Alternating Groups II",
+    "title_slug": "alternating-groups-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3354,
     "title": "Make Array Elements Equal to Zero",
     "title_slug": "make-array-elements-equal-to-zero",
