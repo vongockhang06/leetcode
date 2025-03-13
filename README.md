@@ -28,6 +28,7 @@
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) | Easy | `Array` `Prefix Sum` `Simulation` |
+| 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii) | Medium | `Array` `Binary Search` `Prefix Sum` `Two Pointers` |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | Easy | `Counting` `Hash Table` `String` |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy | `Array` |

@@ -238,6 +238,18 @@
     ]
   },
   {
+    "id": 3356,
+    "title": "Zero Array Transformation II",
+    "title_slug": "zero-array-transformation-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3423,
     "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
     "title_slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
