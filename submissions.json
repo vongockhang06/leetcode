@@ -106,6 +106,18 @@
     ]
   },
   {
+    "id": 2206,
+    "title": "Divide Array Into Equal Pairs",
+    "title_slug": "divide-array-into-equal-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2379,
     "title": "Minimum Recolors to Get K Consecutive Black Blocks",
     "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
