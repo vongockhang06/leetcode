@@ -128,6 +128,17 @@
     ]
   },
   {
+    "id": 2401,
+    "title": "Longest Nice Subarray",
+    "title_slug": "longest-nice-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2460,
     "title": "Apply Operations to an Array",
     "title_slug": "apply-operations-to-an-array",
