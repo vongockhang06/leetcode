@@ -206,6 +206,16 @@
     ]
   },
   {
+    "id": 2873,
+    "title": "Maximum Value of an Ordered Triplet I",
+    "title_slug": "maximum-value-of-an-ordered-triplet-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2965,
     "title": "Find Missing and Repeated Values",
     "title_slug": "find-missing-and-repeated-values",
