@@ -206,6 +206,16 @@
     ]
   },
   {
+    "id": 2843,
+    "title": "  Count Symmetric Integers",
+    "title_slug": "count-symmetric-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 2873,
     "title": "Maximum Value of an Ordered Triplet I",
     "title_slug": "maximum-value-of-an-ordered-triplet-i",
