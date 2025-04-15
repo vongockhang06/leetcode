@@ -94,6 +94,17 @@
     ]
   },
   {
+    "id": 566,
+    "title": "Reshape the Matrix",
+    "title_slug": "reshape-the-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1346,
     "title": "Check If N and Its Double Exist",
     "title_slug": "check-if-n-and-its-double-exist",
