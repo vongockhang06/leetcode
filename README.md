@@ -25,6 +25,7 @@
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | Medium | `Array` `Bit Manipulation` `Sliding Window` |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | Easy | `Array` `Simulation` `Two Pointers` |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range) | Medium | `Math` `Number Theory` `Primality Test` `Prime Number Sieve` `Sieve Theory` |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | Easy | `Array` `Hash Table` `Two Pointers` |
