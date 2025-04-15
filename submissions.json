@@ -105,6 +105,16 @@
     ]
   },
   {
+    "id": 766,
+    "title": "Toeplitz Matrix",
+    "title_slug": "toeplitz-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1346,
     "title": "Check If N and Its Double Exist",
     "title_slug": "check-if-n-and-its-double-exist",
