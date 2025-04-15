@@ -10,6 +10,16 @@
     ]
   },
   {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 128,
     "title": "Longest Consecutive Sequence",
     "title_slug": "longest-consecutive-sequence",
