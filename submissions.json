@@ -107,6 +107,16 @@
     ]
   },
   {
+    "id": 1534,
+    "title": "Count Good Triplets",
+    "title_slug": "count-good-triplets",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 1780,
     "title": "Check if Number is a Sum of Powers of Three",
     "title_slug": "check-if-number-is-a-sum-of-powers-of-three",
