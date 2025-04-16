@@ -150,6 +150,15 @@
     ]
   },
   {
+    "id": 1752,
+    "title": "Check if Array Is Sorted and Rotated",
+    "title_slug": "check-if-array-is-sorted-and-rotated",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1780,
     "title": "Check if Number is a Sum of Powers of Three",
     "title_slug": "check-if-number-is-a-sum-of-powers-of-three",
