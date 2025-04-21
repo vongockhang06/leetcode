@@ -47,3 +47,4 @@
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | Easy | `Counting` `Hash Table` `String` |
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy | `Array` |
+| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity) | Easy | `Array` `Counting` `Sorting` |

@@ -439,5 +439,16 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 3467,
+    "title": "Transform Array by Parity",
+    "title_slug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Sorting"
+    ]
   }
 ]
