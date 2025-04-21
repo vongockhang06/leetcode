@@ -335,6 +335,16 @@
     ]
   },
   {
+    "id": 3142,
+    "title": "Check if Grid Satisfies Conditions",
+    "title_slug": "check-if-grid-satisfies-conditions",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3158,
     "title": "Find the XOR of Numbers Which Appear Twice",
     "title_slug": "find-the-xor-of-numbers-which-appear-twice",

@@ -37,6 +37,7 @@
 | 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | Easy | `Array` `Prefix Sum` |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | Easy | `Array` `Hash Table` `Math` `Matrix` |
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary) | Easy | `Array` `Prefix Sum` `Simulation` |
+| 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | Medium | `Array` `Bit Manipulation` `Prefix Sum` `Queue` `Sliding Window` |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
