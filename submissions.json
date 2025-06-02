@@ -41,6 +41,16 @@
     ]
   },
   {
+    "id": 135,
+    "title": "Candy",
+    "title_slug": "candy",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 171,
     "title": "Excel Sheet Column Number",
     "title_slug": "excel-sheet-column-number",
