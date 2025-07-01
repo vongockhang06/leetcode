@@ -399,6 +399,15 @@
     ]
   },
   {
+    "id": 3330,
+    "title": "Find the Original Typed String I",
+    "title_slug": "find-the-original-typed-string-i",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3354,
     "title": "Make Array Elements Equal to Zero",
     "title_slug": "make-array-elements-equal-to-zero",
