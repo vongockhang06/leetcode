@@ -62,6 +62,15 @@
     ]
   },
   {
+    "id": 77,
+    "title": "Combinations",
+    "title_slug": "combinations",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking"
+    ]
+  },
+  {
     "id": 128,
     "title": "Longest Consecutive Sequence",
     "title_slug": "longest-consecutive-sequence",
