@@ -20,6 +20,17 @@
     ]
   },
   {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "title_slug": "valid-sudoku",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
