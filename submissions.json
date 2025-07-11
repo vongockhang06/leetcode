@@ -41,6 +41,17 @@
     ]
   },
   {
+    "id": 47,
+    "title": "Permutations II",
+    "title_slug": "permutations-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ]
+  },
+  {
     "id": 50,
     "title": "Pow(x, n)",
     "title_slug": "powx-n",
