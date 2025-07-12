@@ -9,6 +9,7 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Array` `Hash Table` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | `Array` `Hash Table` `Matrix` |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | `Array` `Backtracking` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | `Array` `Backtracking` `Sorting` |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
