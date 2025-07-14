@@ -32,6 +32,18 @@
     ]
   },
   {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Bracket Sequences",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 35,
     "title": "Search Insert Position",
     "title_slug": "search-insert-position",
