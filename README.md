@@ -18,6 +18,7 @@
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | `Array` `Backtracking` `Sorting` |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | `Backtracking` |
+| 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union-Find` |
 | 0135 | [Candy](https://leetcode.com/problems/candy) | Hard | `Array` `Greedy` |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | `Math` `String` |
