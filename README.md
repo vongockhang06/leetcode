@@ -51,6 +51,7 @@
 | 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 2843 | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | Easy | `Enumeration` `Math` |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | Easy | `Array` `Bit Manipulation` |
 | 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | Easy | `Array` `Prefix Sum` |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | Easy | `Array` `Hash Table` `Math` `Matrix` |
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary) | Easy | `Array` `Prefix Sum` `Simulation` |

@@ -485,6 +485,16 @@
     ]
   },
   {
+    "id": 2859,
+    "title": "Sum of Values at Indices With K Set Bits",
+    "title_slug": "sum-of-values-at-indices-with-k-set-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2873,
     "title": "Maximum Value of an Ordered Triplet I",
     "title_slug": "maximum-value-of-an-ordered-triplet-i",
