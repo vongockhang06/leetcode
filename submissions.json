@@ -645,6 +645,15 @@
     ]
   },
   {
+    "id": 3456,
+    "title": "Find Special Substring of Length K",
+    "title_slug": "find-special-substring-of-length-k",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3467,
     "title": "Transform Array by Parity",
     "title_slug": "transform-array-by-parity",
