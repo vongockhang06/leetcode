@@ -48,6 +48,7 @@
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | Easy | `Array` `Hash Table` `Two Pointers` |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | Medium | `Math` |
+| 2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 2843 | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | Easy | `Enumeration` `Math` |
 | 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | Easy | `Array` `Prefix Sum` |

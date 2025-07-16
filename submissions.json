@@ -451,6 +451,18 @@
     ]
   },
   {
+    "id": 2592,
+    "title": "Maximize Greatness of an Array",
+    "title_slug": "maximize-greatness-of-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",
