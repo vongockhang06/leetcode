@@ -36,6 +36,7 @@
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | `Array` `Enumeration` |
+| 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | Medium | `Array` `Counting` `Hash Table` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | Medium | `Math` |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
