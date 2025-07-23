@@ -33,6 +33,7 @@
 | 0513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | `String` `Two Pointers` |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `DP on Trees` `Depth-First Search` `Tree` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | `Simulation` `Stack` `String` `Two Pointers` |

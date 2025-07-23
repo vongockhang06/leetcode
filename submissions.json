@@ -291,6 +291,18 @@
     ]
   },
   {
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "title_slug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "DP on Trees",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 566,
     "title": "Reshape the Matrix",
     "title_slug": "reshape-the-matrix",
