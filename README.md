@@ -29,6 +29,7 @@
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
+| 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | `String` `Two Pointers` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |

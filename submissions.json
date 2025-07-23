@@ -244,6 +244,18 @@
     ]
   },
   {
+    "id": 501,
+    "title": "Find Mode in Binary Search Tree",
+    "title_slug": "find-mode-in-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 513,
     "title": "Find Bottom Left Tree Value",
     "title_slug": "find-bottom-left-tree-value",
