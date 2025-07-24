@@ -303,6 +303,18 @@
     ]
   },
   {
+    "id": 563,
+    "title": "Binary Tree Tilt",
+    "title_slug": "binary-tree-tilt",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "DP on Trees",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 566,
     "title": "Reshape the Matrix",
     "title_slug": "reshape-the-matrix",
