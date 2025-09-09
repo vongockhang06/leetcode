@@ -11,6 +11,7 @@
 | 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | `Backtracking` `Hash Table` `String` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Linked List` `Recursion` |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Bracket Sequences` `Dynamic Programming` `String` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium | `Array` `Hash Table` `Matrix` |
