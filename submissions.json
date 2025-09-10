@@ -824,5 +824,15 @@
       "Counting",
       "Sorting"
     ]
+  },
+  {
+    "id": 3675,
+    "title": "Minimum Operations to Transform String",
+    "title_slug": "minimum-operations-to-transform-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
   }
 ]
