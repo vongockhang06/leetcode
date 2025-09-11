@@ -319,6 +319,18 @@
     ]
   },
   {
+    "id": 496,
+    "title": "Next Greater Element I",
+    "title_slug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 501,
     "title": "Find Mode in Binary Search Tree",
     "title_slug": "find-mode-in-binary-search-tree",
