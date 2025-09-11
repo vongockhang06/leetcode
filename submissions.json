@@ -168,6 +168,15 @@
     ]
   },
   {
+    "id": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "title_slug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 90,
     "title": "Subsets II",
     "title_slug": "subsets-ii",
