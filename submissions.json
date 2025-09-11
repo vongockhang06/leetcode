@@ -252,6 +252,18 @@
     ]
   },
   {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 242,
     "title": "Valid Anagram",
     "title_slug": "valid-anagram",
