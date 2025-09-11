@@ -26,6 +26,7 @@
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union-Find` |
 | 0135 | [Candy](https://leetcode.com/problems/candy) | Hard | `Array` `Greedy` |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | `Math` `String` |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | `Linked List` `Recursion` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |

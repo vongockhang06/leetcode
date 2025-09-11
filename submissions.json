@@ -209,6 +209,18 @@
     ]
   },
   {
+    "id": 141,
+    "title": "Linked List Cycle",
+    "title_slug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "skills": [
+      "Floyd's Cycle Finding Algorithm",
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 171,
     "title": "Excel Sheet Column Number",
     "title_slug": "excel-sheet-column-number",
