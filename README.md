@@ -34,6 +34,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |

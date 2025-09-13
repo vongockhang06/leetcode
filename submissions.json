@@ -295,6 +295,18 @@
     ]
   },
   {
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "title_slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "Queue",
+      "String"
+    ]
+  },
+  {
     "id": 404,
     "title": "Sum of Left Leaves",
     "title_slug": "sum-of-left-leaves",
