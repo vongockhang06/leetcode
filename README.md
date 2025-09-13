@@ -47,6 +47,7 @@
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | `Depth-First Search` `Stack` `Tree` |
+| 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | `Array` `Simulation` `Stack` |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | `Simulation` `Stack` `String` `Two Pointers` |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | Medium | `Array` `Queue` `Simulation` `Sorting` |

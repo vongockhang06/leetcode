@@ -448,6 +448,17 @@
     ]
   },
   {
+    "id": 682,
+    "title": "Baseball Game",
+    "title_slug": "baseball-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 766,
     "title": "Toeplitz Matrix",
     "title_slug": "toeplitz-matrix",
