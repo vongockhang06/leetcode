@@ -241,6 +241,17 @@
     ]
   },
   {
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "title_slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 231,
     "title": "Power of Two",
     "title_slug": "power-of-two",
