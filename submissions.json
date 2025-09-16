@@ -366,6 +366,18 @@
     ]
   },
   {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
+  },
+  {
     "id": 513,
     "title": "Find Bottom Left Tree Value",
     "title_slug": "find-bottom-left-tree-value",
