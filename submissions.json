@@ -952,6 +952,15 @@
     ]
   },
   {
+    "id": 3637,
+    "title": "Trionic Array I",
+    "title_slug": "trionic-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3675,
     "title": "Minimum Operations to Transform String",
     "title_slug": "minimum-operations-to-transform-string",

@@ -93,5 +93,6 @@
 | 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy | `Array` |
 | 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k) | Easy | `String` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity) | Easy | `Array` `Counting` `Sorting` |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | Easy | `Array` |
 | 3675 | [Minimum Operations to Transform String](https://leetcode.com/problems/minimum-operations-to-transform-string) | Medium | `Greedy` `String` |
 | 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average) | Easy | `Array` `Hash Table` |
