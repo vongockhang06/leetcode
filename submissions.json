@@ -353,6 +353,19 @@
     ]
   },
   {
+    "id": 494,
+    "title": "Target Sum",
+    "title_slug": "target-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "0-1 Knapsack",
+      "Array",
+      "Backtracking",
+      "Dynamic Programming",
+      "Knapsack Problem"
+    ]
+  },
+  {
     "id": 496,
     "title": "Next Greater Element I",
     "title_slug": "next-greater-element-i",
