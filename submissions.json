@@ -625,6 +625,17 @@
     ]
   },
   {
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "title_slug": "leaf-similar-trees",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 950,
     "title": "Reveal Cards In Increasing Order",
     "title_slug": "reveal-cards-in-increasing-order",
