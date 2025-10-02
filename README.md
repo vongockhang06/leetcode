@@ -58,6 +58,7 @@
 | 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` `Two Pointers` |
 | 0671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | `Array` `Simulation` `Stack` |
+| 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | `Simulation` `Stack` `String` `Two Pointers` |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | Medium | `Array` `Queue` `Simulation` `Sorting` |
