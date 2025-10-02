@@ -557,6 +557,17 @@
     ]
   },
   {
+    "id": 671,
+    "title": "Second Minimum Node In a Binary Tree",
+    "title_slug": "second-minimum-node-in-a-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 682,
     "title": "Baseball Game",
     "title_slug": "baseball-game",
