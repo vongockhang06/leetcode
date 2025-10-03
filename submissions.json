@@ -708,6 +708,18 @@
     ]
   },
   {
+    "id": 1379,
+    "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "title_slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1486,
     "title": "XOR Operation in an Array",
     "title_slug": "xor-operation-in-an-array",
