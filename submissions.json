@@ -636,6 +636,18 @@
     ]
   },
   {
+    "id": 938,
+    "title": "Range Sum of BST",
+    "title_slug": "range-sum-of-bst",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 950,
     "title": "Reveal Cards In Increasing Order",
     "title_slug": "reveal-cards-in-increasing-order",
