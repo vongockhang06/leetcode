@@ -804,6 +804,16 @@
     ]
   },
   {
+    "id": 2236,
+    "title": "Root Equals Sum of Children",
+    "title_slug": "root-equals-sum-of-children",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 2379,
     "title": "Minimum Recolors to Get K Consecutive Black Blocks",
     "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",

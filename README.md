@@ -78,6 +78,7 @@
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | `Array` `Simulation` `Two Pointers` |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | `Array` `Bit Manipulation` `Counting` `Hash Table` |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children) | Easy | `Binary Tree` `Tree` |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | Medium | `Array` `Bit Manipulation` `Sliding Window` |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | Easy | `Array` `Simulation` `Two Pointers` |
