@@ -814,6 +814,17 @@
     ]
   },
   {
+    "id": 2331,
+    "title": "Evaluate Boolean Binary Tree",
+    "title_slug": "evaluate-boolean-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 2379,
     "title": "Minimum Recolors to Get K Consecutive Black Blocks",
     "title_slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
