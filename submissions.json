@@ -660,6 +660,18 @@
     ]
   },
   {
+    "id": 965,
+    "title": "Univalued Binary Tree",
+    "title_slug": "univalued-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1346,
     "title": "Check If N and Its Double Exist",
     "title_slug": "check-if-n-and-its-double-exist",
