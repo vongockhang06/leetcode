@@ -741,6 +741,19 @@
     ]
   },
   {
+    "id": 1526,
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "title_slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1534,
     "title": "Count Good Triplets",
     "title_slug": "count-good-triplets",
