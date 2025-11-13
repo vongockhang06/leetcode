@@ -77,6 +77,7 @@
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | Medium | `Array` `Counting` `Hash Table` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | Medium | `Math` |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | `Graph Theory` |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | `Array` `Simulation` `Two Pointers` |
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs) | Easy | `Array` `Bit Manipulation` `Counting` `Hash Table` |

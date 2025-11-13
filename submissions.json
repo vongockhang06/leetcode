@@ -793,6 +793,15 @@
     ]
   },
   {
+    "id": 1791,
+    "title": "Find Center of Star Graph",
+    "title_slug": "find-center-of-star-graph",
+    "difficulty": "Easy",
+    "skills": [
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
