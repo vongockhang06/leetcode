@@ -814,6 +814,18 @@
     ]
   },
   {
+    "id": 1971,
+    "title": "Find if Path Exists in Graph",
+    "title_slug": "find-if-path-exists-in-graph",
+    "difficulty": "Easy",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2161,
     "title": "Partition Array According to Given Pivot",
     "title_slug": "partition-array-according-to-given-pivot",
