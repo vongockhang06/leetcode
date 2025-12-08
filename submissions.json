@@ -251,6 +251,15 @@
     ]
   },
   {
+    "id": 182,
+    "title": "Duplicate Emails",
+    "title_slug": "duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 203,
     "title": "Remove Linked List Elements",
     "title_slug": "remove-linked-list-elements",
