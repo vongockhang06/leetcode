@@ -242,6 +242,15 @@
     ]
   },
   {
+    "id": 181,
+    "title": "Employees Earning More Than Their Managers",
+    "title_slug": "employees-earning-more-than-their-managers",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 203,
     "title": "Remove Linked List Elements",
     "title_slug": "remove-linked-list-elements",
