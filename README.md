@@ -105,6 +105,7 @@
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary) | Easy | `Array` `Prefix Sum` `Simulation` |
 | 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |
+| 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | Medium | `Array` `Hash Table` |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | Medium | `Array` `Bit Manipulation` `Prefix Sum` `Queue` `Sliding Window` |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | Easy | `Bit Manipulation` `Math` `Recursion` `Simulation` |

@@ -1095,6 +1095,16 @@
     ]
   },
   {
+    "id": 3159,
+    "title": "Find Occurrences of an Element in an Array",
+    "title_slug": "find-occurrences-of-an-element-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3191,
     "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
     "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
