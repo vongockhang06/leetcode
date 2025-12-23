@@ -269,6 +269,15 @@
     ]
   },
   {
+    "id": 197,
+    "title": "Rising Temperature",
+    "title_slug": "rising-temperature",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 203,
     "title": "Remove Linked List Elements",
     "title_slug": "remove-linked-list-elements",
