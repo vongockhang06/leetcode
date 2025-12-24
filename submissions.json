@@ -251,6 +251,15 @@
     ]
   },
   {
+    "id": 177,
+    "title": "Nth Highest Salary",
+    "title_slug": "nth-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 181,
     "title": "Employees Earning More Than Their Managers",
     "title_slug": "employees-earning-more-than-their-managers",
