@@ -32,6 +32,7 @@
 | 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | `Database` |
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | `Database` |
 | 0178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | Medium | `Database` |
+| 0180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | Medium | `Database` |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | `Database` |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | `Database` |
