@@ -296,6 +296,15 @@
     ]
   },
   {
+    "id": 184,
+    "title": "Department Highest Salary",
+    "title_slug": "department-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 197,
     "title": "Rising Temperature",
     "title_slug": "rising-temperature",
