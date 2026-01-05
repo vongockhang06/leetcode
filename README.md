@@ -36,6 +36,7 @@
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | `Database` |
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |
 | 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | Medium | `Database` |
+| 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | Hard | `Database` |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | `Database` |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | `Linked List` `Recursion` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
