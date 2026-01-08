@@ -492,6 +492,15 @@
     ]
   },
   {
+    "id": 511,
+    "title": "Game Play Analysis I",
+    "title_slug": "game-play-analysis-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 513,
     "title": "Find Bottom Left Tree Value",
     "title_slug": "find-bottom-left-tree-value",
