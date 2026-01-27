@@ -122,6 +122,7 @@
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | Easy | `Bit Manipulation` `Math` `Recursion` `Simulation` |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i) | Easy | `String` |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) | Easy | `Array` `Prefix Sum` `Simulation` |
+| 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i) | Medium | `Array` `Prefix Sum` |
 | 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii) | Medium | `Array` `Binary Search` `Prefix Sum` `Two Pointers` |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | Easy | `Counting` `Hash Table` `String` |
