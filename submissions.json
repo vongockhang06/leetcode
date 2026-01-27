@@ -823,6 +823,17 @@
     ]
   },
   {
+    "id": 1282,
+    "title": "Group the People Given the Group Size They Belong To",
+    "title_slug": "group-the-people-given-the-group-size-they-belong-to",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1314,
     "title": "Matrix Block Sum",
     "title_slug": "matrix-block-sum",

@@ -82,6 +82,7 @@
 | 0993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | `Array` `Graph Theory` `Hash Table` |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
+| 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Medium | `Array` `Greedy` `Hash Table` |
 | 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
