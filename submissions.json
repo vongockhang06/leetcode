@@ -443,6 +443,15 @@
     ]
   },
   {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 494,
     "title": "Target Sum",
     "title_slug": "target-sum",
