@@ -431,6 +431,17 @@
     ]
   },
   {
+    "id": 419,
+    "title": "Battleships in a Board",
+    "title_slug": "battleships-in-a-board",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Depth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 463,
     "title": "Island Perimeter",
     "title_slug": "island-perimeter",

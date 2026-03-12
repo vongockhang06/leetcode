@@ -48,6 +48,7 @@
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
+| 0419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board) | Medium | `Array` `Depth-First Search` `Matrix` |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0494 | [Target Sum](https://leetcode.com/problems/target-sum) | Medium | `0-1 Knapsack` `Array` `Backtracking` `Dynamic Programming` `Knapsack Problem` |
