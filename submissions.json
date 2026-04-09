@@ -210,6 +210,18 @@
     ]
   },
   {
+    "id": 113,
+    "title": "Path Sum II",
+    "title_slug": "path-sum-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 128,
     "title": "Longest Consecutive Sequence",
     "title_slug": "longest-consecutive-sequence",
