@@ -656,6 +656,15 @@
     ]
   },
   {
+    "id": 584,
+    "title": "Find Customer Referee",
+    "title_slug": "find-customer-referee",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 589,
     "title": "N-ary Tree Preorder Traversal",
     "title_slug": "n-ary-tree-preorder-traversal",
