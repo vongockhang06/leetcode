@@ -647,6 +647,15 @@
     ]
   },
   {
+    "id": 577,
+    "title": "Employee Bonus",
+    "title_slug": "employee-bonus",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 589,
     "title": "N-ary Tree Preorder Traversal",
     "title_slug": "n-ary-tree-preorder-traversal",

@@ -67,6 +67,7 @@
 | 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy | `Binary Tree` `DP on Trees` `Depth-First Search` `Tree` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
+| 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | Easy | `Database` |
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | `Depth-First Search` `Stack` `Tree` |
 | 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | `Depth-First Search` `Stack` `Tree` |
 | 0601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | Hard | `Database` |
