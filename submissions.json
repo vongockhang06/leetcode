@@ -696,6 +696,15 @@
     ]
   },
   {
+    "id": 596,
+    "title": "Classes With at Least 5 Students",
+    "title_slug": "classes-with-at-least-5-students",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 601,
     "title": "Human Traffic of Stadium",
     "title_slug": "human-traffic-of-stadium",
