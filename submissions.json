@@ -634,6 +634,15 @@
     ]
   },
   {
+    "id": 570,
+    "title": "Managers with at Least 5 Direct Reports",
+    "title_slug": "managers-with-at-least-5-direct-reports",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 572,
     "title": "Subtree of Another Tree",
     "title_slug": "subtree-of-another-tree",

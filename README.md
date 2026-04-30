@@ -66,6 +66,7 @@
 | 0559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | Easy | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy | `Binary Tree` `DP on Trees` `Depth-First Search` `Tree` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
+| 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | Medium | `Database` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | Easy | `Database` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
