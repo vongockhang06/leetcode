@@ -1047,6 +1047,17 @@
     ]
   },
   {
+    "id": 1861,
+    "title": "Rotating the Box",
+    "title_slug": "rotating-the-box",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
