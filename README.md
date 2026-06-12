@@ -42,6 +42,7 @@
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | `Database` |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber) | Medium | `Array` `Dynamic Programming` |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | `Linked List` `Recursion` |
+| 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | Medium | `Array` `Dynamic Programming` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
