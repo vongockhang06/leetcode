@@ -346,6 +346,16 @@
     ]
   },
   {
+    "id": 198,
+    "title": "House Robber",
+    "title_slug": "house-robber",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 203,
     "title": "Remove Linked List Elements",
     "title_slug": "remove-linked-list-elements",
