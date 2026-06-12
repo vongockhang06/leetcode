@@ -49,6 +49,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | Hard | `Database` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
+| 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii) | Medium | `Binary Tree` `DP on Trees` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |

@@ -440,6 +440,19 @@
     ]
   },
   {
+    "id": 337,
+    "title": "House Robber III",
+    "title_slug": "house-robber-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "DP on Trees",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Tree"
+    ]
+  },
+  {
     "id": 345,
     "title": "Reverse Vowels of a String",
     "title_slug": "reverse-vowels-of-a-string",
