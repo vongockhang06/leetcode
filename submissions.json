@@ -576,6 +576,19 @@
     ]
   },
   {
+    "id": 257,
+    "title": "Binary Tree Paths",
+    "title_slug": "binary-tree-paths",
+    "difficulty": "Easy",
+    "skills": [
+      "Backtracking",
+      "Binary Tree",
+      "Depth-First Search",
+      "String",
+      "Tree"
+    ]
+  },
+  {
     "id": 262,
     "title": "Trips and Users",
     "title_slug": "trips-and-users",

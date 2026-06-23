@@ -60,6 +60,7 @@
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
+| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | Easy | `Backtracking` `Binary Tree` `Depth-First Search` `String` `Tree` |
 | 0262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | Hard | `Database` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii) | Medium | `Binary Tree` `DP on Trees` `Depth-First Search` `Dynamic Programming` `Tree` |
