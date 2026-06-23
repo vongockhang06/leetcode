@@ -31,6 +31,7 @@
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
+| 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Medium | `Backtracking` `Binary Tree` `Depth-First Search` `Tree` |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union-Find` |
 | 0135 | [Candy](https://leetcode.com/problems/candy) | Hard | `Array` `Greedy` |

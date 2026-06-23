@@ -269,6 +269,17 @@
     ]
   },
   {
+    "id": 110,
+    "title": "Balanced Binary Tree",
+    "title_slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 113,
     "title": "Path Sum II",
     "title_slug": "path-sum-ii",
