@@ -40,6 +40,7 @@
 | 0135 | [Candy](https://leetcode.com/problems/candy) | Hard | `Array` `Greedy` |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
+| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | `Math` `String` |
 | 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | `Database` |
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | `Database` |
