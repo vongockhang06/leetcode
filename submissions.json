@@ -530,6 +530,18 @@
     ]
   },
   {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "title_slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 231,
     "title": "Power of Two",
     "title_slug": "power-of-two",
