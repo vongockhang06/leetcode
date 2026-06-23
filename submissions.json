@@ -245,6 +245,18 @@
     ]
   },
   {
+    "id": 101,
+    "title": "Symmetric Tree",
+    "title_slug": "symmetric-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 113,
     "title": "Path Sum II",
     "title_slug": "path-sum-ii",
