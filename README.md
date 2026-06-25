@@ -165,3 +165,4 @@
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array) | Easy | `Array` `Bit Manipulation` `Simulation` |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | Medium | `Array` `Greedy` |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii) | Medium | `Array` `Dynamic Programming` |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i) | Medium | `Array` `Counting` `Divide and Conquer` `Hash Table` `Merge Sort` `Prefix Sum` `Segment Tree` |
