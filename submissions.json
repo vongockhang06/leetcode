@@ -1292,6 +1292,16 @@
     ]
   },
   {
+    "id": 1967,
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "title_slug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 1971,
     "title": "Find if Path Exists in Graph",
     "title_slug": "find-if-path-exists-in-graph",
