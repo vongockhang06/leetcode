@@ -60,6 +60,7 @@
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
+| 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | `Array` `Heap (Priority Queue)` `Monotonic Queue` `Queue` `Range Minimum/Maximum Query` `Sliding Window` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | Easy | `Backtracking` `Binary Tree` `Depth-First Search` `String` `Tree` |
 | 0262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | Hard | `Database` |
