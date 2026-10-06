@@ -32,6 +32,17 @@
     ]
   },
   {
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 16,
     "title": "3Sum Closest",
     "title_slug": "3sum-closest",
