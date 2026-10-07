@@ -2,7 +2,7 @@ name: Update Leetcode Cookies
 
 on:
   schedule:
-    - cron: "0 0 */7 * *" # Run every 1 week
+    - cron: "0 0 */14 * *" # Run every 2 week
 
 jobs:
   update_cookies:
