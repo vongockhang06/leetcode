@@ -1106,6 +1106,16 @@
     ]
   },
   {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "title_slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 938,
     "title": "Range Sum of BST",
     "title_slug": "range-sum-of-bst",
