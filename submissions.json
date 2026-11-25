@@ -170,6 +170,17 @@
     ]
   },
   {
+    "id": 51,
+    "title": "N-Queens",
+    "title_slug": "n-queens",
+    "difficulty": "Hard",
+    "skills": [
+      "Algorithm X",
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 62,
     "title": "Unique Paths",
     "title_slug": "unique-paths",
