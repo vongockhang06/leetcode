@@ -27,6 +27,7 @@
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard | `Algorithm X` `Array` `Backtracking` |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | Hard | `Algorithm X` `Backtracking` |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | `Combinatorics` `Dynamic Programming` `Math` |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | `Array` `Binary Search` `Matrix` |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | `Backtracking` |
